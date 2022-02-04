@@ -1,13 +1,13 @@
 {
-  "name": "ryn-bot-whatsapp",
+  "name": "ennpggbot",
   "version": "1.0.0",
-  "description": "Simple Whatsapp Bot using Baileys Node Js hosted on Heroku by riyanris",
+  "description": "Simple Whatsapp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "riyanris",
+  "author": "ennpgg",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "algorithmia": "^0.3.10",
